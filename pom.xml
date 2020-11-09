@@ -6,7 +6,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>2.11</version>
-    <relativePath />
+    <relativePath/>
   </parent>
   <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>zap</artifactId>
@@ -75,7 +75,7 @@
     <dependency>
       <groupId>org.zaproxy</groupId>
       <artifactId>zap-clientapi</artifactId>
-      <version>1.1.1</version>
+      <version>1.8.0</version>
     </dependency>
   </dependencies>
 
